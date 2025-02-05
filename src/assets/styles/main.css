@@ -183,3 +183,11 @@ svg * {
     scale: 1;
   }
 }
+
+footer {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font: 400 11px inter;
+}

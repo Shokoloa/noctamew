@@ -44,6 +44,7 @@ export const App = () => {
             <Confetti width={window.innerWidth} height={window.innerHeight} gravity={0.025} />
           </main>
         )}
+        <footer>Made by Sakuraishi</footer>
         <ScrollToTop />
       </div >
     </Router >
